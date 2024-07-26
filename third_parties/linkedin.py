@@ -9,7 +9,7 @@ def scrape_lonkedin_profile(linkedin_profile_url: str, mock: bool = False):
     Manually scrape the imformation from the LinkedIn profile"""
 
     if mock:
-        linkedin_profile_url = "https://gist.githubusercontent.com/federicoalonso/4b78db40e0a9b3ff8ba7bfeab818f338/raw/cc494e2e211ebae9e0af6f470ce64c42b6750e9c/gistfile1.txt"
+        linkedin_profile_url = "https://gist.githubusercontent.com/federicoalonso/3fabd8457ffe3780b679c7b188dfb9ea/raw/d9396eeca556903634f4eaa9dd31cb819d09cd34/gistfile1.txt"
         response = requests.get(linkedin_profile_url, timeout=10)
     else:
         api_key = os.getenv("PROXYCURL_API_KEY")
@@ -28,8 +28,8 @@ def scrape_lonkedin_profile(linkedin_profile_url: str, mock: bool = False):
             "use_cache": "if-present",
             "fallback_to_cache": "on-error",
         }
-        response = requests.get(api_endpoint, params=params, headers=headers, timeout=10)
-    
+        response = requests.get(api_endpoint, params=params, headers=headers, timeout=1000)
+
     data = response.json()
     data = {
         k: v

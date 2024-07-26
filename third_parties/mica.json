@@ -1,0 +1,408 @@
+{
+    "public_identifier": "micaela-olivera-58548521a",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/micaela-olivera-58548521a/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240725%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240725T012120Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d12c7833d63f916620c1c19c86fb4e28112292bc52401fff4dc3fec37a9aecbc",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/micaela-olivera-58548521a/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240725%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240725T012120Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=274f333dec13cfcda1aac02d3a496c98eb5980202c22907a37c53afb34847caa",
+    "first_name": "Micaela",
+    "last_name": "Olivera",
+    "full_name": "Micaela Olivera",
+    "follower_count": null,
+    "occupation": "Licenciada en Informática",
+    "headline": "Licenciada en Informática ",
+    "summary": "Hola, qué tal? me llamo Micaela, soy Licenciada en Informática.\n\nMe considero una persona sumamente proactiva, no me rindo ante los problemas y siento mucho interés en aumentar mis conocimientos permanentemente. Soy una persona responsable, autodidacta, comunicativa, y fácilmente adaptable.\n\nEgresé en 2016 como Oficial de la Armada Nacional y en el año 2017 empecé a estudiar Licenciatura en Informática en la Universidad Católica del Uruguay, graduándome en marzo de 2024.\n\nDentro de la Armada Nacional, tuve 6 años de experiencia como full stack developer, trabajando para el Servicio de Informática y la Segunda Division del Estado Mayor.\n\nEn julio de 2022 comencé a trabajar en DynamizeIT como analista Senior, realizando tareas de implementación de proyectos, testing y soporte. Actualmente desarrollo en .NET y Angular.\n\nAdicionalmente, soy Analista GeneXus 17 y realicé cursos de Seguridad de la Información y de Análisis y Gestión de riesgos en el Instituto Uruguayo de Normas Técnicas.",
+    "country": "UY",
+    "country_full_name": "Uruguay",
+    "city": "Uruguay",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "DynamizeIT - Construccion de software por modelacion",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dynamizeit---construccion-de-software-por-modelacion",
+            "company_facebook_profile_url": null,
+            "title": "Software Developer",
+            "description": null,
+            "location": "Uruguay",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/dynamizeit---construccion-de-software-por-modelacion/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240725%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240725T012124Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=0b5e58990ba36a625f373b63c70869c5c9ff4f8fe5619c6b1e99c8d8c2b5f71a"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2023
+            },
+            "company": "Armada Nacional de Uruguay",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/armada-nacional-de-uruguay",
+            "company_facebook_profile_url": null,
+            "title": "Oficial de TI, Oficina de enlace con los Agregados Navales",
+            "description": null,
+            "location": "Uruguay",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/armada-nacional-de-uruguay/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240725%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240725T012124Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=c58feefdbc1ec1b8ded0cdd33ff5704ecfd666fb8f167555c80bdfcee03d60fa"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2022
+            },
+            "company": "Armada Nacional de Uruguay",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/armada-nacional-de-uruguay",
+            "company_facebook_profile_url": null,
+            "title": "Oficial de seguridad - Segunda División del Estado Mayor de la Armada",
+            "description": null,
+            "location": "Uruguay",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/armada-nacional-de-uruguay/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240725%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240725T012124Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=c58feefdbc1ec1b8ded0cdd33ff5704ecfd666fb8f167555c80bdfcee03d60fa"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2020
+            },
+            "company": "Armada Nacional de Uruguay",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/armada-nacional-de-uruguay",
+            "company_facebook_profile_url": null,
+            "title": "Oficial de desarrollo - Servicio de Gestión informática y telecomunicaciones de la Armada",
+            "description": null,
+            "location": "Uruguay",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/armada-nacional-de-uruguay/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240725%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240725T012124Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=c58feefdbc1ec1b8ded0cdd33ff5704ecfd666fb8f167555c80bdfcee03d60fa"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2024
+            },
+            "field_of_study": "Informática",
+            "degree_name": "Licenciatura",
+            "school": "Universidad Católica del Uruguay Dámaso Antonio Larranaga",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/43361/",
+            "school_facebook_profile_url": null,
+            "description": "Skills: Object-Oriented Programming (OOP) · HTML5 · Angular · Databases · JavaScript · Desarrollo front end",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/universidad-catolica-del-uruguay/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240725%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240725T012124Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=13030ffd374c818a30cfb330d3d7b4d642965c07400fcdf90af3fb1c0c69447e",
+            "grade": "Licenciatura en Informática ",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "field_of_study": "Licenciatura en informática ",
+            "degree_name": "Analista Programadora",
+            "school": "Universidad Católica del Uruguay Dámaso Antonio Larranaga",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/43361/",
+            "school_facebook_profile_url": null,
+            "description": "Skills: Programación de aplicaciones",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/universidad-catolica-del-uruguay/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240725%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240725T012124Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=13030ffd374c818a30cfb330d3d7b4d642965c07400fcdf90af3fb1c0c69447e",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "field_of_study": "Cuerpo General",
+            "degree_name": "Oficial de Marina",
+            "school": "Escuela Naval - Uruguay",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/11565646/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF6tSx0DUcdLw/company-logo_400_400/0/1631365203497/escuela_naval_logo?e=1729728000&v=beta&t=bE10YV5A1lpVf5BKaM1yxSuYeatqTJPDsMPqVaq7kxc",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "field_of_study": "Ingeniería",
+            "degree_name": "Bachillerato",
+            "school": "Escuela Naval - Uruguay",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/11565646/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF6tSx0DUcdLw/company-logo_400_400/0/1631365203497/escuela_naval_logo?e=1729728000&v=beta&t=bE10YV5A1lpVf5BKaM1yxSuYeatqTJPDsMPqVaq7kxc",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2022
+            },
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Nivel Intermedio",
+            "school": "Instituto Anglo",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/780155/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/instituto-cultural-anglo-uruguayo/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240725%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240725T012124Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=872261243f7448d370c94cbe186847e5e6e9b0014ac1dea557fe5c06acaaa87c",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": null,
+            "degree_name": "Curso Desarrollo de Políticas Cibernéticas",
+            "school": "CENTRO DE ESTUDIOS HEMISFÉRICOS DE DEFENSA WILLIAM J. PERRY",
+            "school_linkedin_profile_url": null,
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Inglés"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Counter Terrorism Course - Royal Military Academy Sandhurst",
+            "number": null
+        },
+        {
+            "name": "Curso Gobierno Electrónico (2018)– AGESIC",
+            "number": null
+        },
+        {
+            "name": "Docente - Procesador de texto Writer y Word",
+            "number": null
+        },
+        {
+            "name": "Ingeniería y Estructura de la Ciberseguridad",
+            "number": "ITU Academy"
+        },
+        {
+            "name": "Instructor de Apia Documentum (2020) -MDN",
+            "number": null
+        },
+        {
+            "name": "Introducción a la Seguridad Cibernética - CISCO Networking Academy",
+            "number": null
+        },
+        {
+            "name": "Seguridad en aplicaciones GeneXus OWASP TOP 10 (2018) – AGESIC",
+            "number": null
+        },
+        {
+            "name": "Tramitador básico de Apia Documentum (2020) - MDN",
+            "number": null
+        }
+    ],
+    "accomplishment_projects": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "GitHub",
+            "description": null,
+            "url": "http://github.com/msolivera"
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2022
+            },
+            "ends_at": null,
+            "name": "Analista Programadora ",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Universidad Católica del Uruguay",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "Seguridad de la información. Fundamentos (UNIT-ISO/IEC 27002)",
+            "license_number": null,
+            "display_source": null,
+            "authority": "UNIT Uruguay",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "Análisis y gestión de riesgos (UNIT-ISO/IEC 27005)",
+            "license_number": null,
+            "display_source": null,
+            "authority": "UNIT Uruguay",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2022
+            },
+            "ends_at": null,
+            "name": "GeneXus 17 Junior Analyst",
+            "license_number": "0",
+            "display_source": "genexus.com",
+            "authority": "GeneXus",
+            "url": "https://training.genexus.com/permalink/5113?data=102634"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2017
+            },
+            "ends_at": null,
+            "name": "Analista GeneXus 15",
+            "license_number": "0",
+            "display_source": "genexus.com",
+            "authority": "GeneXus",
+            "url": "https://training.genexus.com/permalink/5113?data=102634"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2022
+            },
+            "ends_at": null,
+            "name": "GeneXus 17 Analyst",
+            "license_number": "0",
+            "display_source": "genexus.com",
+            "authority": "GeneXus",
+            "url": "https://training.genexus.com/permalink/5113?data=102634"
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C5107AQHPYB7uvwTk_A/group-logo_image-shrink_48x48/0/1631002086785?e=1722477600&v=beta&t=6p0GZKm_rJtc6IYuFpfNNnzVgr4VzcPKmQXOE0Mt-gY",
+            "name": "UI/UX Design, Front End & Full Stack Developers",
+            "url": "https://www.linkedin.com/groups/2425937"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQHN83S3cqSjSA/group-logo_image-shrink_400x400/0/1630998260806?e=1722477600&v=beta&t=eXw-eIz-wNhbHLsZoyOFg9pLievVx5n8bJaQdC-OuHw",
+            "name": "Oportunidades laborales en Uruguay",
+            "url": "https://www.linkedin.com/groups/3242190"
+        }
+    ],
+    "skills": [
+        "HTML5",
+        "JavaScript",
+        "Programación de aplicaciones",
+        "Angular",
+        "Databases",
+        "Object-Oriented Programming (OOP)",
+        "Desarrollo front end",
+        "Gestión de proyectos",
+        "Capacidad de análisis",
+        "Comunicación",
+        "Investigación",
+        "Gestión del tiempo",
+        "Gestión de personal",
+        "Desarrollo de software",
+        "Python",
+        "Java",
+        "HTML",
+        "Hojas de estilos en cascada (CSS)",
+        "PHP",
+        "PhpMyAdmin",
+        "MySQL",
+        "PostgreSQL",
+        "Genexus",
+        "Linux",
+        "React.js",
+        "Lumen",
+        "RStudio",
+        "Laravel",
+        "Go",
+        "Pentaho",
+        "Tableau",
+        "Data Warehouse",
+        "GitHub",
+        "Taiga",
+        "Aptitudes de organización"
+    ],
+    "inferred_salary": {
+        "min": null,
+        "max": null
+    },
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": {
+        "github_profile_id": null,
+        "twitter_profile_id": null,
+        "facebook_profile_id": null
+    },
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
