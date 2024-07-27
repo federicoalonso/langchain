@@ -3,3 +3,9 @@ langchain-openai
 langchain-community
 langchainhub
 flask
+
+langchain
+openai
+black
+
+langchain-ollama
